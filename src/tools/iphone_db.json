@@ -1,0 +1,80 @@
+{
+  "products": {
+    "iphone 15 pro": {
+      "name": "iPhone 15pro",
+      "stock": 16,
+      "price": 25000000,
+      "description": "Điện thoại Apple iPhone 15 Pro"
+    },
+    "iphone 15": {
+      "name": "iPhone 15",
+      "stock": 15,
+      "price": 21000000,
+      "description": "Điện thoại Apple iPhone 15"
+    },
+    "iphone 15 pro max": {
+      "name": "iPhone 15 Pro Max",
+      "stock": 5,
+      "price": 30000000,
+      "description": "Flagship iPhone 15 Pro Max"
+    },
+    "iphone 14": {
+      "name": "iPhone 14",
+      "stock": 12,
+      "price": 17000000,
+      "description": "Điện thoại Apple iPhone 14 tiêu chuẩn"
+    },
+    "iphone 14 pro": {
+      "name": "iPhone 14 Pro",
+      "stock": 8,
+      "price": 21000000,
+      "description": "Flagship Apple iPhone 14 Pro"
+    },
+    "iphone 14 pro max": {
+      "name": "iPhone 14 Pro Max",
+      "stock": 6,
+      "price": 23000000,
+      "description": "Flagship Apple iPhone 14 Pro Max"
+    },
+    "iphone 16": {
+      "name": "iPhone 16",
+      "stock": 20,
+      "price": 23000000,
+      "description": "Điện thoại Apple iPhone 16 thế hệ mới"
+    },
+    "iphone 16 pro": {
+      "name": "iPhone 16 Pro",
+      "stock": 10,
+      "price": 28000000,
+      "description": "Flagship Apple iPhone 16 Pro"
+    },
+    "iphone 16 pro max": {
+      "name": "iPhone 16 Pro Max",
+      "stock": 8,
+      "price": 32000000,
+      "description": "Flagship Apple iPhone 16 Pro Max cao cấp"
+    },
+    "iphone 17": {
+      "name": "iPhone 17 (Concept)",
+      "stock": 5,
+      "price": 26000000,
+      "description": "Concept Apple iPhone 17 thế hệ tương lai"
+    },
+    "iphone 17 pro max": {
+      "name": "iPhone 17 Pro Max (Concept)",
+      "stock": 3,
+      "price": 36000000,
+      "description": "Flagship tương lai Apple iPhone 17 Pro Max"
+    }
+  },
+  "coupons": {
+    "WINNER": 0.10,
+    "SALE20": 0.20
+  },
+  "shipping": {
+    "hanoi": 50000,
+    "ha noi": 50000,
+    "hcm": 30000,
+    "ho chi minh": 30000
+  }
+}
